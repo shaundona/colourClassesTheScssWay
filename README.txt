@@ -1,4 +1,4 @@
-#Pencil & Fox SASS colour classes
+# Pencil & Fox SASS colour classes
 Open-source stylekit generator, optimized for quick reusable frontend styling
 
 ## How it works
