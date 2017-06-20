@@ -1,0 +1,36 @@
+/*Page styles*/
+body {
+font-size: 12px;
+line-height: 1.3    
+}
+
+.main, .footer {
+padding: 20px;    
+}
+
+.h4 {
+margin-top: 40px; 
+font-size: 18px;    
+}
+
+p > b {
+margin: 20px 0 10px 0;
+display: block;    
+}
+
+.text-colour span {
+display: block;
+margin-bottom: 0.1em;
+}
+
+.background-colour span,
+.gradient-colour span,
+.border-colour span {
+display: block;
+height: 40px;    
+}
+
+.border-colour span {
+border-width: 4px;
+border-style: solid;     
+}
