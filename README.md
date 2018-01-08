@@ -7,7 +7,7 @@ Open-source stylekit generator, optimized for quick reusable frontend styling
 - Using your new stylekit apply the classes to your project.
 
 ## Demo
-- https://www.pencilandfox.getforge.io/scrummylibrary/colour-classes-the-SCSS-way
+- https://pencilandfox.getforge.io/scrummylibrary/colour-classes-the-SCSS-way
 
 ## Requirements
 - SASS compiler
